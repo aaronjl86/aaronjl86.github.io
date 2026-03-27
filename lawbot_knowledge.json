@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ca-security-deposit",
+    "title": "California Residential Security Deposits",
+    "jurisdiction": "California",
+    "topic": "Housing",
+    "summary": "Landlords generally must return deposit balances and itemized deductions within statutory timelines.",
+    "key_points": [
+      "Request move-out inspection records and condition photos.",
+      "Ask for itemized deductions with receipts where required.",
+      "Track statutory deadlines from the date possession was returned.",
+      "If unresolved, evaluate small claims options and demand letter timing."
+    ],
+    "citations": [
+      "Cal. Civ. Code § 1950.5",
+      "California Courts Self-Help: Security Deposits"
+    ]
+  },
+  {
+    "id": "federal-title-vii",
+    "title": "Federal Employment Discrimination Basics",
+    "jurisdiction": "Federal",
+    "topic": "Employment",
+    "summary": "Title VII prohibits discrimination based on protected traits and generally requires EEOC charge processes.",
+    "key_points": [
+      "Preserve timeline of incidents, witnesses, and written communications.",
+      "Review internal HR policy and reporting channels.",
+      "Watch filing deadlines for agency charge submission.",
+      "Retaliation protections may apply after good-faith reporting."
+    ],
+    "citations": [
+      "42 U.S.C. § 2000e et seq.",
+      "EEOC Charge Filing Guidance"
+    ]
+  },
+  {
+    "id": "small-claims-general",
+    "title": "Small Claims Process Overview",
+    "jurisdiction": "All",
+    "topic": "Civil Procedure",
+    "summary": "Small claims courts are designed for lower-dollar disputes with simplified procedure and evidence presentation.",
+    "key_points": [
+      "Confirm jurisdictional amount limits for your court.",
+      "Organize exhibits chronologically with copies for the judge and defendant.",
+      "Send pre-suit demand where required and keep proof of delivery.",
+      "Prepare concise statement of facts and requested relief."
+    ],
+    "citations": [
+      "State court self-help pages",
+      "Local small claims rules"
+    ]
+  },
+  {
+    "id": "ny-tenant-harassment",
+    "title": "New York Tenant Harassment and Repairs",
+    "jurisdiction": "New York",
+    "topic": "Housing",
+    "summary": "New York tenants may have remedies for harassment and failures to provide habitable conditions.",
+    "key_points": [
+      "Document repair requests in writing and keep copies.",
+      "Capture dated photos/videos and inspection reports.",
+      "Review local housing court forms and emergency repair channels.",
+      "Avoid withholding rent without reviewing local legal requirements."
+    ],
+    "citations": [
+      "N.Y. Real Prop. Law provisions",
+      "NYC Housing Court resources"
+    ]
+  },
+  {
+    "id": "tx-wage-claim",
+    "title": "Texas Wage Claim Pathways",
+    "jurisdiction": "Texas",
+    "topic": "Employment",
+    "summary": "Texas workers can pursue certain unpaid wage claims administratively or through civil action depending on facts.",
+    "key_points": [
+      "Collect pay stubs, schedules, and employer communications.",
+      "Calculate regular and overtime amounts separately.",
+      "Compare agency claim process versus direct lawsuit strategy.",
+      "Track limitations periods and retaliation concerns."
+    ],
+    "citations": [
+      "Texas Payday Law guidance",
+      "Fair Labor Standards Act (where applicable)"
+    ]
+  }
+]
